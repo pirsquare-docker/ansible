@@ -3,11 +3,11 @@ Dockerfile to install ansible
 
 ## Installation
 
-    docker pull pirsquare/ansible
+    docker pull pirsquare/ansible:latest
 
 
 ## Base Image
-pirsquare/python-common
+pirsquare/python-common:centos6.6
 
 
 ## Details
